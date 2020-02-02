@@ -1,0 +1,41 @@
+p, h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    display: flex;
+    height: 100px;
+    background-color: blue;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+header li {
+    display: inline;
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+.menu {
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
