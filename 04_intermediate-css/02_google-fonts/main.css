@@ -1,0 +1,41 @@
+body, html {
+    height: 100%;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    color: white;
+    padding: 10px;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    padding: 10px;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("https://images.unsplash.com/photo-1584402983021-25cd8dd7bb3b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2251&q=80");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+
