@@ -1,0 +1,24 @@
+img {
+    width: 400px;
+    height: 400px;
+    float: left;
+    margin: 1.66%;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+p {
+    font-family: Raleway;
+    margin-left: 1.66%;
+    font-size: 3rem;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.container {
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid pink;
+}
