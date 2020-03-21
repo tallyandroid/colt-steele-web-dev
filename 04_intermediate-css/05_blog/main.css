@@ -1,0 +1,23 @@
+body {
+    width: 80%;
+    border: 20px solid gray;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.date {
+    color: rgb(29, 29, 153);
+    padding-left: 5px;
+    letter-spacing: 1px;
+}
+
+.post {
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+.first-paragraph {
+    border-left: 5px solid gray;
+    padding-left: 5px;
+}
