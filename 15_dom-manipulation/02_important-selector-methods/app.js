@@ -1,0 +1,1 @@
+var change = document.getElementById('highlight')
